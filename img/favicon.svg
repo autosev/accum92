@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Корпус батареи -->
+  <rect x="2" y="8" width="28" height="20" rx="3" fill="#D81B1B"/>
+  <!-- Клемма -->
+  <rect x="5" y="5" width="5" height="4" rx="1" fill="#D81B1B"/>
+  <rect x="22" y="5" width="5" height="4" rx="1" fill="#D81B1B"/>
+  <!-- Плюс -->
+  <rect x="7" y="15" width="8" height="3" rx="1" fill="white"/>
+  <rect x="9.5" y="12.5" width="3" height="8" rx="1" fill="white"/>
+  <!-- Минус -->
+  <rect x="18" y="15" width="8" height="3" rx="1" fill="white"/>
+</svg>
